@@ -77,6 +77,8 @@ Fluxo típico de aprovação de um item de trabalho: **Tech Lead/Code Reviewer**
 
 `PLATAFORMAS_FREELANCER.md`, na raiz do projeto, guarda o ranking e o detalhe (taxa, fit para TI, reputação, fonte) das plataformas onde captar projeto como equipe (Workana, 99Freelas, Vibbra, Upwork, Toptal e outras) — pesquisa 2025/2026, revisitar periodicamente.
 
+`EXTRACAO_E_ANALISE_WORKANA.md`, na raiz do projeto, guarda a metodologia reproduzível de extração de dado real do Workana (contornando bloqueio anti-bot e renderização via JavaScript) e um snapshot datado (2026-09-17) de análise de vagas reais — 3 em profundidade + triagem ranqueada de 50. Os links de vaga individual ficam inativos com o tempo; a metodologia da seção 1 é a parte durável.
+
 ## 8. Skills (`.claude/skills/`)
 
 | Skill | Conteúdo | Carregar quando |
