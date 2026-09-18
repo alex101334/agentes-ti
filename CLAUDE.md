@@ -79,6 +79,10 @@ Fluxo típico de aprovação de um item de trabalho: **Tech Lead/Code Reviewer**
 
 `EXTRACAO_E_ANALISE_WORKANA.md`, na raiz do projeto, guarda a metodologia reproduzível de extração de dado real do Workana (contornando bloqueio anti-bot e renderização via JavaScript) e um snapshot datado (2026-09-17) de análise de vagas reais — 3 em profundidade + triagem ranqueada de 50. Os links de vaga individual ficam inativos com o tempo; a metodologia da seção 1 é a parte durável.
 
+`radar-demanda/`, na raiz do projeto, guarda o radar de mercado cruzando 99Freelas + Workana (snapshot 2026-09-18, 630 vagas/projetos, categoria "Web, Mobile & Software" / "TI e Programação" sem filtro de subcategoria) — `radar-demanda/index.html` é um site autocontido (dado embutido, abre direto no navegador sem servidor) que agrupa as vagas por necessidade real do cliente em vez de tratá-las como leilão pra disputar; `radar-demanda/README.md` documenta a metodologia de extração das duas plataformas (estende a técnica de `EXTRACAO_E_ANALISE_WORKANA.md` pro 99Freelas) e a leitura de mercado. Revisitar/reextrair periodicamente pra virar radar de verdade — hoje é uma fotografia datada.
+
+`PRODUTOS_RECORRENTES.md`, na raiz do projeto, documenta as 5 propostas de produto/sistema recorrente (SaaS/mensalidade) derivadas da leitura completa das descrições do `radar-demanda/` (não só das tags/contagens), com a decisão de integração direta com a Meta (Tech Provider + Embedded Signup, não Evolution API/Z-API não-oficial) para o produto de WhatsApp+IA, o sequenciamento recomendado de construção, e o princípio de modularidade/isolamento por cliente que qualquer agente de arquitetura/requisitos deve respeitar ao desenhar cada ferramenta. É o documento de partida antes de acionar os agentes por ferramenta — ainda não há código nem projeto de cliente associado a nenhum dos 5 produtos.
+
 ## 8. Skills (`.claude/skills/`)
 
 | Skill | Conteúdo | Carregar quando |

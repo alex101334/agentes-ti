@@ -1,0 +1,211 @@
+{
+  "total": 630,
+  "por_plataforma": {
+    "99freelas": 279,
+    "workana": 351
+  },
+  "categoria_principal_labels": {
+    "apostas_cassino": "Apostas / cassino online (fora do escopo ético recomendado)",
+    "conteudo_adulto": "Conteúdo adulto (fora do escopo ético recomendado)",
+    "whatsapp_automacao": "Automação/chatbot de WhatsApp (com ou sem IA)",
+    "ecommerce_loja": "E-commerce / loja virtual (setup, catálogo, checkout, marketplace)",
+    "crm_erp_vendas": "CRM / ERP / automação comercial (funil, cadastro, integração de vendas)",
+    "agente_ia_voz_chat": "Agente/assistente de IA (fora do WhatsApp) — voz, chat, conteúdo, análise",
+    "automacao_n8n_rpa": "Automação de processo / integração via n8n, RPA, Zapier, Make",
+    "app_mobile": "Aplicativo mobile (Android/iOS/híbrido)",
+    "jogos": "Jogos (Unity/Unreal/Roblox/mobile game)",
+    "dashboard_bi_planilha": "Dashboard / BI / planilha (Excel, Power BI, relatórios)",
+    "marketing_tracking_seo": "Marketing digital / tracking / SEO / Ads",
+    "seguranca_infra_devops": "Segurança / infraestrutura / DevOps",
+    "dados_scraping": "Extração de dados / scraping / ETL",
+    "trading_financeiro_bot": "Robô/indicador de trading financeiro",
+    "hardware_embarcado": "Hardware embarcado / IoT",
+    "site_institucional_lp": "Site institucional / landing page / página de vendas",
+    "sistema_sob_medida_gestao": "Sistema/plataforma sob medida (gestão interna, ERP próprio, controle)",
+    "outro": "Outro / não categorizado"
+  },
+  "contagem_categoria_principal": [
+    {
+      "slug": "whatsapp_automacao",
+      "label": "Automação/chatbot de WhatsApp (com ou sem IA)",
+      "count": 121
+    },
+    {
+      "slug": "ecommerce_loja",
+      "label": "E-commerce / loja virtual (setup, catálogo, checkout, marketplace)",
+      "count": 92
+    },
+    {
+      "slug": "app_mobile",
+      "label": "Aplicativo mobile (Android/iOS/híbrido)",
+      "count": 89
+    },
+    {
+      "slug": "agente_ia_voz_chat",
+      "label": "Agente/assistente de IA (fora do WhatsApp) — voz, chat, conteúdo, análise",
+      "count": 77
+    },
+    {
+      "slug": "site_institucional_lp",
+      "label": "Site institucional / landing page / página de vendas",
+      "count": 49
+    },
+    {
+      "slug": "dashboard_bi_planilha",
+      "label": "Dashboard / BI / planilha (Excel, Power BI, relatórios)",
+      "count": 38
+    },
+    {
+      "slug": "crm_erp_vendas",
+      "label": "CRM / ERP / automação comercial (funil, cadastro, integração de vendas)",
+      "count": 37
+    },
+    {
+      "slug": "outro",
+      "label": "Outro / não categorizado",
+      "count": 36
+    },
+    {
+      "slug": "jogos",
+      "label": "Jogos (Unity/Unreal/Roblox/mobile game)",
+      "count": 24
+    },
+    {
+      "slug": "sistema_sob_medida_gestao",
+      "label": "Sistema/plataforma sob medida (gestão interna, ERP próprio, controle)",
+      "count": 14
+    },
+    {
+      "slug": "marketing_tracking_seo",
+      "label": "Marketing digital / tracking / SEO / Ads",
+      "count": 14
+    },
+    {
+      "slug": "automacao_n8n_rpa",
+      "label": "Automação de processo / integração via n8n, RPA, Zapier, Make",
+      "count": 10
+    },
+    {
+      "slug": "apostas_cassino",
+      "label": "Apostas / cassino online (fora do escopo ético recomendado)",
+      "count": 8
+    },
+    {
+      "slug": "seguranca_infra_devops",
+      "label": "Segurança / infraestrutura / DevOps",
+      "count": 8
+    },
+    {
+      "slug": "trading_financeiro_bot",
+      "label": "Robô/indicador de trading financeiro",
+      "count": 5
+    },
+    {
+      "slug": "hardware_embarcado",
+      "label": "Hardware embarcado / IoT",
+      "count": 5
+    },
+    {
+      "slug": "conteudo_adulto",
+      "label": "Conteúdo adulto (fora do escopo ético recomendado)",
+      "count": 2
+    },
+    {
+      "slug": "dados_scraping",
+      "label": "Extração de dados / scraping / ETL",
+      "count": 1
+    }
+  ],
+  "contagem_tag": [
+    {
+      "slug": "site_institucional_lp",
+      "label": "Site institucional / landing page / página de vendas",
+      "count": 183
+    },
+    {
+      "slug": "agente_ia_voz_chat",
+      "label": "Agente/assistente de IA (fora do WhatsApp) — voz, chat, conteúdo, análise",
+      "count": 151
+    },
+    {
+      "slug": "app_mobile",
+      "label": "Aplicativo mobile (Android/iOS/híbrido)",
+      "count": 148
+    },
+    {
+      "slug": "sistema_sob_medida_gestao",
+      "label": "Sistema/plataforma sob medida (gestão interna, ERP próprio, controle)",
+      "count": 147
+    },
+    {
+      "slug": "whatsapp_automacao",
+      "label": "Automação/chatbot de WhatsApp (com ou sem IA)",
+      "count": 121
+    },
+    {
+      "slug": "ecommerce_loja",
+      "label": "E-commerce / loja virtual (setup, catálogo, checkout, marketplace)",
+      "count": 109
+    },
+    {
+      "slug": "dashboard_bi_planilha",
+      "label": "Dashboard / BI / planilha (Excel, Power BI, relatórios)",
+      "count": 109
+    },
+    {
+      "slug": "seguranca_infra_devops",
+      "label": "Segurança / infraestrutura / DevOps",
+      "count": 79
+    },
+    {
+      "slug": "crm_erp_vendas",
+      "label": "CRM / ERP / automação comercial (funil, cadastro, integração de vendas)",
+      "count": 70
+    },
+    {
+      "slug": "marketing_tracking_seo",
+      "label": "Marketing digital / tracking / SEO / Ads",
+      "count": 62
+    },
+    {
+      "slug": "jogos",
+      "label": "Jogos (Unity/Unreal/Roblox/mobile game)",
+      "count": 54
+    },
+    {
+      "slug": "automacao_n8n_rpa",
+      "label": "Automação de processo / integração via n8n, RPA, Zapier, Make",
+      "count": 36
+    },
+    {
+      "slug": "outro",
+      "label": "Outro / não categorizado",
+      "count": 36
+    },
+    {
+      "slug": "apostas_cassino",
+      "label": "Apostas / cassino online (fora do escopo ético recomendado)",
+      "count": 8
+    },
+    {
+      "slug": "hardware_embarcado",
+      "label": "Hardware embarcado / IoT",
+      "count": 8
+    },
+    {
+      "slug": "trading_financeiro_bot",
+      "label": "Robô/indicador de trading financeiro",
+      "count": 7
+    },
+    {
+      "slug": "dados_scraping",
+      "label": "Extração de dados / scraping / ETL",
+      "count": 4
+    },
+    {
+      "slug": "conteudo_adulto",
+      "label": "Conteúdo adulto (fora do escopo ético recomendado)",
+      "count": 2
+    }
+  ]
+}
